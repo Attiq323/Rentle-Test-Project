@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Rentickle</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="rent">Rent</string>
+    <string name="product_price_text">$2000 for 36month</string>
+    <string name="product_name">Sofa Baleria</string>
+    <string name="rfunable_deposite">Refundable_Deposite</string>
+    <string name="offer_text">Get 10% off on this product by using coupon code RENT10</string>
+    <string name="view_all_offers_text">View All Offers</string>
+    <string name="select_size">Select Size</string>
+    <string name="select_tenure_title">Select Tenure</string>
+    <string name="enter_tenure_hint">Please Enter your tenure</string>
+    <string name="our_category">Our Category</string>
+    <string name="trending_products">Trending Products</string>
+    <string name="recent_viewed_products">Recently Viewed Products</string>
+
+
+
+
+</resources>
